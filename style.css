@@ -1,0 +1,32 @@
+.test {
+    width: 200px;
+    height: 300px;
+}
+
+ol {
+    background-color: darksalmon;
+    width: 300px;
+    border-radius: 20px;
+    box-shadow: black 30px 30px 30px;
+}
+
+body {
+    background-color: cyan;
+}
+
+ol li {
+    height: 500px;
+}
+
+.img_title {
+    width: 200px;
+}
+
+.develop {
+    bottom: 0;
+    position: fixed;
+}
+
+.white_bg {
+    background-color: cyan;
+}
